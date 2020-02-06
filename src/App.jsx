@@ -9,7 +9,7 @@ const App = () => {
   return (
     <Router>
       <header>
-        <h1>Welcome to my SPA</h1>
+        <h1>Curt Grogan</h1>
         <nav>
           <ul>
             <li>
